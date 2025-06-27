@@ -13,3 +13,12 @@ Here’s what I used:
 
 Slack username : One For Freedom
 
+
+###  3D View
+![Solder 3D](Solder%203D.png)
+
+###  PCB Layout
+![Solder PCB](Solder%20PCB.png)
+
+###  Schematic
+![Solder Schematic](Solder%20Schematic.png)
